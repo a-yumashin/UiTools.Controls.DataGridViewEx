@@ -22,14 +22,14 @@ My control is called `DataGridViewEx`, and it offers the following features:
 
 ### Limitations:
 * Only one level of grouping is supported,
-* Grouping is performed programmatically (no "Group Panel" for drag-and-drop grouping is provided); grouping can be made only programmatically by calling the `GroupByColumn(string colName)` method; passing empty string as `colName` - removes grouping,
+* Grouping is performed **programmatically** by calling the `GroupByColumn(string colName)` method (no "Group Panel" for drag-and-drop grouping is provided); passing empty string as `colName` - removes grouping,
 * Grouping is supported for the following data types (defined in the `GridColumnDataType` enum): **Text**, **Integer**, **Decimal**, **DateTime** and **Boolean**,
 * Filtering is triggered via a right-click on the column header (I opted not to add a header icon to conserve space),
 * The `Tag` property of the columns is reserved (see below) and cannot be used for custom purposes,
 * Excel export has been tested **only with Excel 2019**,
 * **Data bound mode is NOT supported**,
 * For each column added, `SortMode` property is automatically set to `DataGridViewColumnSortMode.NotSortable`; otherwise custom sorting will not work properly,
-* As far as grouping is made via removing/inserting rows, the performance is not ideal.
+* As far as grouping is made via removing/inserting rows, the performance is probably not ideal.
 
 ### Some implementation details:
 * A key role is played by the `UiTools.Controls.ExtendedDataGridView.GridColumnExtInfo` class, which extends any grid column with about 15 additional properties,
