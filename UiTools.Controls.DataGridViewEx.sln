@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiTools.Controls.DataGridViewEx.Demo", "UiTools.Controls.DataGridViewEx.Demo\UiTools.Controls.DataGridViewEx.Demo.csproj", "{535E0C77-5686-4AD6-AE50-E16BDC167B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiTools.Controls.DataGridViewEx", "UiTools.Controls.DataGridViewEx\UiTools.Controls.DataGridViewEx.csproj", "{50ADCF21-54C1-4B30-B67E-2F60470ABD98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9396D90E-B930-44B1-B8CA-3C9302DC7138}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{A4E38F89-896B-43BE-B70B-78EA6C247079}"
+	ProjectSection(SolutionItems) = preProject
+		Screenshots\01.png = Screenshots\01.png
+		Screenshots\02.png = Screenshots\02.png
+		Screenshots\03.png = Screenshots\03.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535E0C77-5686-4AD6-AE50-E16BDC167B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535E0C77-5686-4AD6-AE50-E16BDC167B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535E0C77-5686-4AD6-AE50-E16BDC167B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535E0C77-5686-4AD6-AE50-E16BDC167B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50ADCF21-54C1-4B30-B67E-2F60470ABD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ADCF21-54C1-4B30-B67E-2F60470ABD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ADCF21-54C1-4B30-B67E-2F60470ABD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ADCF21-54C1-4B30-B67E-2F60470ABD98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4E38F89-896B-43BE-B70B-78EA6C247079} = {9396D90E-B930-44B1-B8CA-3C9302DC7138}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5267627F-BD31-4CEE-9A2F-537ABF7FF0F4}
+	EndGlobalSection
+EndGlobal

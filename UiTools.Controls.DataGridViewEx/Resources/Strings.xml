@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<StringTable>
+  <String>
+    <Value locale="en">Export contents</Value>
+    <Value locale="ru">Экспорт содержимого</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to CSV</Value>
+    <Value locale="ru">Экспорт в CSV</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to HTML</Value>
+    <Value locale="ru">Экспорт в HTML</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to PDF</Value>
+    <Value locale="ru">Экспорт в PDF</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to Excel</Value>
+    <Value locale="ru">Экспорт в Excel</Value>
+  </String>
+  <String>
+    <Value locale="en">Failed to add dynamic event handler</Value>
+    <Value locale="ru">Ошибка добавления обработчика</Value>
+  </String>
+  <String>
+    <Value locale="en">Delegate type not found</Value>
+    <Value locale="ru">Не найден тип делегата</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to MS Excel in progress...</Value>
+    <Value locale="ru">Выполняется экспорт в MS Excel...</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to MS Excel completed</Value>
+    <Value locale="ru">Экспорт в MS Excel завершён</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to PDF in progress...</Value>
+    <Value locale="ru">Выполняется экспорт в PDF...</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to PDF completed</Value>
+    <Value locale="ru">Экспорт в PDF завершён</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to HTML in progress...</Value>
+    <Value locale="ru">Выполняется экспорт в HTML...</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to HTML completed</Value>
+    <Value locale="ru">Экспорт в HTML завершён</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to CSV in progress...</Value>
+    <Value locale="ru">Выполняется экспорт в CSV...</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to CSV completed</Value>
+    <Value locale="ru">Экспорт в CSV завершён</Value>
+  </String>
+  <String>
+    <Value locale="en">ProgID 'Excel.Application' is not registered in the system</Value>
+    <Value locale="ru">ProgID 'Excel.Application' не зарегистрирован в системе</Value>
+  </String>
+  <String>
+    <Value locale="en">Nothing to export</Value>
+    <Value locale="ru">Нет данных для экспорта</Value>
+  </String>
+  <String>
+    <Value locale="en">No visible columns, nothing to export</Value>
+    <Value locale="ru">Нет данных для экспорта (нет видимых колонок)</Value>
+  </String>
+  <String>
+    <Value locale="en">GridExporter.Grid property not set</Value>
+    <Value locale="ru">Свойство GridExporter.Grid не задано</Value>
+  </String>
+  <String>
+    <Value locale="en">Export to file</Value>
+    <Value locale="ru">Экспортировать в файл</Value>
+  </String>
+  <String>
+    <Value locale="en">Date filter</Value>
+    <Value locale="ru">Фильтр по дате</Value>
+  </String>
+  <String>
+    <Value locale="en">Number filter</Value>
+    <Value locale="ru">Числовой фильтр</Value>
+  </String>
+  <String>
+    <Value locale="en">Text filter</Value>
+    <Value locale="ru">Текстовый фильтр</Value>
+  </String>
+  <String>
+    <Value locale="en">(Select all)</Value>
+    <Value locale="ru">(Выделить все)</Value>
+  </String>
+  <String>
+    <Value locale="en">Equals</Value>
+    <Value locale="ru">Равно</Value>
+  </String>
+  <String>
+    <Value locale="en">Does not equal</Value>
+    <Value locale="ru">Не равно</Value>
+  </String>
+  <String>
+    <Value locale="en">After</Value>
+    <Value locale="ru">После</Value>
+  </String>
+  <String>
+    <Value locale="en">After or equals</Value>
+    <Value locale="ru">После или равно</Value>
+  </String>
+  <String>
+    <Value locale="en">Before</Value>
+    <Value locale="ru">До</Value>
+  </String>
+  <String>
+    <Value locale="en">Before or equals</Value>
+    <Value locale="ru">До или равно</Value>
+  </String>
+  <String>
+    <Value locale="en">Between</Value>
+    <Value locale="ru">Между</Value>
+  </String>
+  <String>
+    <Value locale="en">Not between</Value>
+    <Value locale="ru">Не между</Value>
+  </String>
+  <String>
+    <Value locale="en">Greater than</Value>
+    <Value locale="ru">Больше</Value>
+  </String>
+  <String>
+    <Value locale="en">Greater than or equal to</Value>
+    <Value locale="ru">Больше или равно</Value>
+  </String>
+  <String>
+    <Value locale="en">Less than</Value>
+    <Value locale="ru">Меньше</Value>
+  </String>
+  <String>
+    <Value locale="en">Less than or equal to</Value>
+    <Value locale="ru">Меньше или равно</Value>
+  </String>
+  <String>
+    <Value locale="en">Contains</Value>
+    <Value locale="ru">Содержит</Value>
+  </String>
+  <String>
+    <Value locale="en">Does not contain</Value>
+    <Value locale="ru">Не содержит</Value>
+  </String>
+  <String>
+    <Value locale="en">Starts with</Value>
+    <Value locale="ru">Начинается с</Value>
+  </String>
+  <String>
+    <Value locale="en">Does not start with</Value>
+    <Value locale="ru">Не начинается с</Value>
+  </String>
+  <String>
+    <Value locale="en">Ends with</Value>
+    <Value locale="ru">Заканчивается на</Value>
+  </String>
+  <String>
+    <Value locale="en">Does not end with</Value>
+    <Value locale="ru">Не заканчивается на</Value>
+  </String>
+  <String>
+    <Value locale="en">(regular expression)</Value>
+    <Value locale="ru">(регулярное выражение)</Value>
+  </String>
+  <String>
+    <Value locale="en">Or filter by distinct values:</Value>
+    <Value locale="ru">Или фильтр по distinct values:</Value>
+  </String>
+  <String>
+    <Value locale="en">Reset</Value>
+    <Value locale="ru">Сбросить</Value>
+  </String>
+  <String>
+    <Value locale="en">(filter is set)</Value>
+    <Value locale="ru">(установлен фильтр)</Value>
+  </String>
+  <String>
+    <Value locale="en">(empty value)</Value>
+    <Value locale="ru">(пустое значение)</Value>
+  </String>
+  <String>
+    <Value locale="en">Error</Value>
+    <Value locale="ru">Ошибка</Value>
+  </String>
+  <String>
+    <Value locale="en">Information</Value>
+    <Value locale="ru">Информация</Value>
+  </String>
+  <String>
+    <Value locale="en">Attention</Value>
+    <Value locale="ru">Внимание</Value>
+  </String>
+  <String>
+    <Value locale="en">Close</Value>
+    <Value locale="ru">Закрыть</Value>
+  </String>
+  <String>
+    <Value locale="en">Apply</Value>
+    <Value locale="ru">Применить</Value>
+  </String>
+  <String>
+    <Value locale="en">Filter:</Value>
+    <Value locale="ru">Фильтр:</Value>
+  </String>
+  <String>
+    <Value locale="en">Reset all filters</Value>
+    <Value locale="ru">Сбросить все фильтры</Value>
+  </String>
+  <String>
+    <Value locale="en">Columns display</Value>
+    <Value locale="ru">Отображение колонок</Value>
+  </String>
+  <String>
+    <Value locale="en">Show all columns</Value>
+    <Value locale="ru">Показать все колонки</Value>
+  </String>
+</StringTable>
